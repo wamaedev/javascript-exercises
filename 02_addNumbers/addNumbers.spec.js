@@ -5,3 +5,4 @@ describe('addNumbers', () => {
     expect(addNumbers()).toEqual(2);
   });
 });
+
