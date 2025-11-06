@@ -40,3 +40,4 @@ npm test joinStrings.spec.js
 - Look at the docs for JavaScript variables for a quick reference.
 
 - Refer back to the [Variables and Operators lesson](https://www.theodinproject.com/lessons/foundations-variables-and-operators) if you are still stuck.
+

@@ -9,7 +9,12 @@
 
 // Add your code right below, good luck!
 
+const firstName = "Presbury"
+const lastName = "wamae"
+const thisYear = 2025
+const birthYear = 2001
 
+const greeting = "Hello! My name is " + firstName + " " + lastName + "I am " + (thisYear - birthYear) + "years old.";
 
 
 
@@ -23,3 +28,4 @@ module.exports = {
   fullName: typeof fullName === 'undefined' ? undefined : fullName,
   age: typeof age === 'undefined' ? undefined : age
 }
+
