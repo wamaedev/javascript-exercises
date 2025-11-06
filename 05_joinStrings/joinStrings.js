@@ -10,12 +10,11 @@
 // Add your code right below, good luck!
 
 const firstName = "Presbury"
-const lastName = "wamae"
+const lastName = "Wamae"
 const thisYear = 2025
 const birthYear = 2001
 
-const greeting = "Hello! My name is " + firstName + " " + lastName + "I am " + (thisYear - birthYear) + "years old.";
-
+const greeting = "Hello! My name is " + firstName + " " + lastName + " and I am " + (thisYear - birthYear) + "years old.";
 
 
 // Do not change this
